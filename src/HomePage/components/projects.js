@@ -8,7 +8,7 @@ class Projects extends React.Component{
                 <div class="row m-3 p-3 flex-center justify-content-center">
                     <h3 class="justify-content-center">Projects</h3>
                 </div>
-                <div class="row flex-center justify-content-center">
+                <div class="row flex-center justify-content-center py-3">
                     <ul class="list-group">
                         <li class="list-group-item">Machinery Inventory System</li>
                         <li class="list-group-item">Trip Analysis Checker System</li>

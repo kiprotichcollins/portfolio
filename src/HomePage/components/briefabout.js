@@ -5,8 +5,7 @@ import BackPhoto from '../../Assets/images/backgroundkali.png'
 class AboutMe extends React.Component{
     render(){
         return (
-            <div class="container">
-                
+            <div class="container mt-1">                
                 <div class="row p-4 justify-content-center">
                    <h3 text-align="center" font-size="10rem">About Myself</h3>
                 </div>
