@@ -27,12 +27,12 @@ render() {
         <MDBCollapse id="navbarCollapse3" isOpen={this.state.isOpen} navbar>
           <MDBNavbarNav right>
           <MDBNavItem>
-              <MDBNavLink className="waves-effect waves-light" to="#!">
+              <MDBNavLink className="waves-effect waves-light" to="www.linkedin.com/in/collins-kiprotich-411347162">
                 <LinkedInIcon/>
               </MDBNavLink>
             </MDBNavItem>
             <MDBNavItem>
-              <MDBNavLink className="waves-effect waves-light" to="#!">
+              <MDBNavLink className="waves-effect waves-light" to="/twitter">
                 <TwitterIcon />
               </MDBNavLink>
             </MDBNavItem>
@@ -47,19 +47,6 @@ render() {
             <MDBNavItem>
               <MDBNavLink to="#!">Blog</MDBNavLink>
             </MDBNavItem>
-            {/* <MDBNavItem>
-              <MDBDropdown>
-                <MDBDropdownToggle nav caret>
-                  <div className="d-none d-md-inline">Dropdown</div>
-                </MDBDropdownToggle>
-                <MDBDropdownMenu className="dropdown-default">
-                  <MDBDropdownItem href="#!">Action</MDBDropdownItem>
-                  <MDBDropdownItem href="#!">Another Action</MDBDropdownItem>
-                  <MDBDropdownItem href="#!">Something else here</MDBDropdownItem>
-                  <MDBDropdownItem href="#!">Something else here</MDBDropdownItem>
-                </MDBDropdownMenu>
-              </MDBDropdown>
-            </MDBNavItem> */}
           </MDBNavbarNav>
         </MDBCollapse>
       </MDBNavbar>

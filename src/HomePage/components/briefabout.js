@@ -22,7 +22,6 @@ class AboutMe extends React.Component{
                        </p>
                     </div>
                 </div>
-                <hr/>
             </div>
             
         )

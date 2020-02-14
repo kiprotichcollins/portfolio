@@ -12,6 +12,9 @@ class MySkills extends React.Component{
                         <li>PHP</li>
                         <li>JAVASCRIPT</li>
                         <li>PYTHON</li>
+                        <li>Java and Android</li>
+                        <li>Html and Xml</li>
+                        <li>Version Control i.e git</li>
                     </ul>
                 </div>
             </div>

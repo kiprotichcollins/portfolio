@@ -11,7 +11,7 @@ class MyEducation extends React.Component{
                         <ul class="list-group">
                             <li class="list-group-item d-flex justify-content-between align-items-center px-3">
                             Institute of Software Technologies
-                                <span class="badge badge-primary badge-pill">6 months</span>
+                               
                             </li>
                             <li class="list-group-item d-flex justify-content-between align-items-center">
                             University of Embu
